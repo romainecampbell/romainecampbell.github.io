@@ -17,3 +17,8 @@ Paper 1
 
 ## Publications
 
+# Job Market Paper
+
+# CV
+[[CV]](pdfs/RCampbell_CV_2023.pdf)
+
