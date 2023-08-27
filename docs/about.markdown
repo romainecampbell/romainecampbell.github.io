@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Photo](images/Romaine_7.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Program](https://inequality.hks.harvard.edu), an [NSF Graduate Fellow](https://www.nsfgrfp.org), and an affiliate at [Harvard's Institute for Quantitative Social Science](https://www.iq.harvard.edu/about).
+
+Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
 
 
-[jekyll-organization]: https://github.com/jekyll
