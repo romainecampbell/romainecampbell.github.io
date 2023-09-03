@@ -4,11 +4,10 @@
 
 layout: default
 title: About
-permalink: /about/
 order: 1
 ---
 
-<img src="images/Romaine_7.png" height="200" width="200">
+<img src="/images/Romaine_7.png" height="200" width="200">
 
 I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores.
 
