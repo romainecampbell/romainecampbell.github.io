@@ -9,9 +9,14 @@ order: 1
 
 <div class="row">
   <div class="column"><img src="/images/Romaine_7.png" height="200" width="200"></div>
-  <div class="column">contact infos</div>
+  <div class="column"><Email Address: [rcampbell@g.harvard.edu](rcampbell@g.harvard.edu) I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores.></div>
 </div>
 
+Email Address: rcampbell@g.harvard.edu
+
+Personal Website:
+
+Twitter: @romcampbell
 
 I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores.
 
