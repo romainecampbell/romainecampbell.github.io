@@ -5,6 +5,7 @@
 layout: default
 title: About
 order: 1
+author_profile: true
 ---
 
 <div class="row">
