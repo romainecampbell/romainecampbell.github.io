@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Romaine Campbell"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,16 @@ I am a Ph.D. candidate in Economics at Harvard University. My main areas of inte
 I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Program](https://inequality.hks.harvard.edu), an [NSF Graduate Fellow](https://www.nsfgrfp.org), and an affiliate at [Harvard's Institute for Quantitative Social Science](https://www.iq.harvard.edu/about).
 
 Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
+
+References
+======
+
+Lawrence Katz                                     Jesse Shapiro
+katz2@fas.harvard.edu                             jesse_shapiro@fas.harvard.edu
+
+Edward Glaeser                                    Amanda Pallais
+eglaeser@harvard.edu                              apallais@fas.harvard.edu
+
 
 [CV](https://romaineacampbell.github.io/files/Campbell2023_AcademicCV.pdf)
 
