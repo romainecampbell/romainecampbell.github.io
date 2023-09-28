@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Curriculum Vitae"
+    url: https://romaineacampbell.github.io/files/Campbell2023_AcademicCV.pdf
+
+  - title: "Job Market Paper"
+    url: /jobmarket/    
+
+  - title: "Research"
+    url: /research/  
