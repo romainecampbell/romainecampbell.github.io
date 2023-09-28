@@ -7,6 +7,13 @@ author_profile: true
 
 Working Papers
 ======
+“The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement” (with Jenna Anders), Jenna Anders’s Job Market Paper
+
+“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with Connor Redpath)
+
+“Spillover Effects of Black Teachers on White Teachers’ Racial Competency: Mixed Methods Evidence from North Carolina” (with Seth Gerhsenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon)
+
+“Investigator Racial Diversity and Clinical Trial Participation” (with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo)
 
 
 
