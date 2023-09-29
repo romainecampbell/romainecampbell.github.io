@@ -8,6 +8,10 @@ author_profile: true
 Working Papers
 ======
 “The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement” (with Jenna Anders), Jenna Anders’s Job Market Paper
+<details>
+  <summary>abstract</summary>
+  Stuff will be posted soon.
+</details>
 
 “Officer Language and Suspect Race: A Text Analysis of Police Reports” (with Connor Redpath)
 
@@ -22,9 +26,7 @@ Working Papers
 
 Works in Progress
 ======
-<details>
-  <summary>“Can Diversity Improve Equity? Achieving Racial Parity in Leader Assessment of Minority Team Members” (with Aaron Phipps)</summary>
-</details>
+
 “Can Diversity Improve Equity? Achieving Racial Parity in Leader Assessment of Minority Team Members” (with Aaron Phipps)
 
 “The Impact of Education on Successful Re-entry” (with Logan Lee)
