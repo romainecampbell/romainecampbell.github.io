@@ -11,7 +11,7 @@ Working Papers
 The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement, *with Jenna Anders (Jenna Anders’s Job Market Paper)* 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
- Will be posted soon.
+ Will be posted November 2023.
 </details>
 
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*
