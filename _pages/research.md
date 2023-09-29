@@ -14,12 +14,11 @@ The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcem
  Will be posted November 2023.
 </details>
 
-Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*
-
 Investigator Racial Diversity and Clinical Trial Participation, *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*
 
 Spillover Effects of Black Teachers on White Teachers’ Racial Competency: Mixed Methods Evidence from North Carolina, *with Seth Gerhsenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*
 
+Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*
 
 Works in Progress
 ======
