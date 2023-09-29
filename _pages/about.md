@@ -18,11 +18,14 @@ References
 ======
 
 Lawrence Katz                                     
-[katz2@fas.harvard.edu](katz2@fas.harvard.edu)                         
+[katz2@fas.harvard.edu](katz2@fas.harvard.edu)
+
 Jesse Shapiro
 [jesse_shapiro@fas.harvard.edu](jesse_shapiro@fas.harvard.edu)
+
 Edward Glaeser                                    
-[eglaeser@harvard.edu](eglaeser@harvard.edu)                              
+[eglaeser@harvard.edu](eglaeser@harvard.edu)
+
 Amanda Pallais
 [apallais@fas.harvard.edu](apallais@fas.harvard.edu)
 
