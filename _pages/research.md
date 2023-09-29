@@ -12,7 +12,7 @@ Working Papers
   *with Jenna Anders, Jenna Anders’s Job Market Paper*
     <details>
       <summary>abstract</summary>
-      Stuff will be posted soon.
+      Will be posted soon.
     </details>
 
 #### Officer Language and Suspect Race: A Text Analysis of Police Reports
