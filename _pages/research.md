@@ -8,10 +8,10 @@ author_profile: true
 Working Papers
 ======
 
-#### The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement
+The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement
   *with Jenna Anders, Jenna Anders’s Job Market Paper*
     <details>
-      <summary>abstract</summary>
+      <summary>Abstract</summary>
       Will be posted soon.
     </details>
 
