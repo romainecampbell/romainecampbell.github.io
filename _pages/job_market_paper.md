@@ -5,7 +5,8 @@ permalink: /jobmarket/
 author_profile: true
 ---
 
-My Job Market Paper will be posted November 2023 {% include base_path %}
+[What Does Federal Oversight Do to Policing and Public Safety?: Evidence from  Seattle]
 <details>
-  <summary>abstract</summary>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+ Will be posted November 2023.
 </details>
