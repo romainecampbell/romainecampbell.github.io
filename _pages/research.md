@@ -16,7 +16,7 @@ Working Papers
 
 [Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*
 
-[Spillover Effects of Black Teachers on White Teachers’ Racial Competency: Mixed Methods Evidence from North Carolina](https://docs.iza.org/dp16258.pdf), *with Seth Gerhsenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*
+[Spillover Effects of Black Teachers on White Teachers’ Racial Competency: Mixed Methods Evidence from North Carolina](https://docs.iza.org/dp16258.pdf), *with Seth Gershenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*
 
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*
 
