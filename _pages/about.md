@@ -33,6 +33,6 @@ Amanda Pallais
 [apallais@fas.harvard.edu](apallais@fas.harvard.edu)
 
 
-[CV](https://romaineacampbell.github.io/files/Campbell2023_AcademicCV.pdf)
+[CV](https://romainecampbell.github.io/files/Campbell2023_AcademicCV.pdf)
 
 
