@@ -6,10 +6,3 @@ author_profile: true
 ---
 
 My job market paper will be posted November 2023.
-<!-- 
-[What Does Federal Oversight Do to Policing and Public Safety?: Evidence from  Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf)
-<details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
- Will be posted November 2023.
-</details>
- -->
