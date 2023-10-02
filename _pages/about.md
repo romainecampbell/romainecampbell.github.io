@@ -14,25 +14,20 @@ I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Progr
 
 Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
 
+Here is my [CV](https://romainecampbell.github.io/files/Campbell2023_AcademicCV.pdf)
+
 References
 ======
 
-Lawrence Katz                                     
-[katz2@fas.harvard.edu](katz2@fas.harvard.edu)
+[Lawrence Katz](katz2@fas.harvard.edu)                                   
+
+[Jesse Shapiro](jesse_shapiro@fas.harvard.edu)
+
+[Edward Glaeser](eglaeser@harvard.edu)
+
+[Amanda Pallais](apallais@fas.harvard.edu)
 
 
-Jesse Shapiro
-[jesse_shapiro@fas.harvard.edu](jesse_shapiro@fas.harvard.edu)
 
-
-Edward Glaeser                                    
-[eglaeser@harvard.edu](eglaeser@harvard.edu)
-
-
-Amanda Pallais
-[apallais@fas.harvard.edu](apallais@fas.harvard.edu)
-
-
-[CV](https://romainecampbell.github.io/files/Campbell2023_AcademicCV.pdf)
 
 
