@@ -19,7 +19,7 @@ Here is my [CV](https://romainecampbell.github.io/files/Campbell2023_AcademicCV.
 References
 ======
 
-[Lawrence Katz](katz2@fas.harvard.edu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jesse Shapiro](jesse_shapiro@fas.harvard.edu)         
+[Lawrence Katz](katz2@fas.harvard.edu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jesse Shapiro](jesse_shapiro@fas.harvard.edu)         
 [Edward Glaeser](eglaeser@harvard.edu)&nbsp;&nbsp;&nbsp;&nbsp;[Amanda Pallais](apallais@fas.harvard.edu)                              
 
 
