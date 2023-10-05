@@ -10,7 +10,7 @@ Working Papers
 
 <div class="project">
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/) (Jenna Anders’s Job Market Paper)*. 
-<details>
+<details class="abstract">
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
  Will be posted November 2023.
 </details>
