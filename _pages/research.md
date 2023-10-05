@@ -10,10 +10,11 @@ Working Papers
 
 <div class="project">
 <a href="http://jenna-anders.github.io/files/ac_epa.pdf">The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement</a>, <em>with <a href="http://www.jennaanders.com/">Jenna Anders</a> (Jenna Anders’s Job Market Paper)</em>. 
-<details class="abstract">
+<p>&nbsp;&nbsp;<details class="abstract">
  <summary>Abstract</summary>
  Will be posted November 2023.
 </details>
+</p>
 </div>
 
 [Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
