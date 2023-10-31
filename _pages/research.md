@@ -15,11 +15,6 @@ Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Conn
 [Spillover Effects of Black Teachers on White Teachers’ Racial Competency: Mixed Methods Evidence from North Carolina](https://docs.iza.org/dp16258.pdf), *with Seth Gershenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*. IZA Discussion Paper 16258.
 
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/) (her Job Market Paper)*. 
- <details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
- Will be posted November 2023.
-
-</details>
 
 Works in Progress
 ======
