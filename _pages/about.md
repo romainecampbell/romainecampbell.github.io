@@ -14,7 +14,7 @@ I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Progr
 
 Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
 
-Here is my [CV](https://romainecampbell.github.io/files/Campbell_CV.pdf).
+Here is my [CV](https://romainecampbell.github.io/files/CampbellRomaine_CV.pdf).
 
 References
 ======
