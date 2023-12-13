@@ -18,9 +18,7 @@ Policing reform advocates have proposed increased oversight to improve quality a
 
 
 
-Working Papers
-======
-
+<h3>Working Papers</h3>
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*.
 
 [Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
@@ -29,8 +27,8 @@ Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Conn
 
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/) (her Job Market Paper)*. 
 
-Works in Progress
-======
+
+<h3>Works in Progress</h3>
 
 Can Diversity Improve Equity? Achieving Racial Parity in Leader Assessment of Minority Team Members, *with Aaron Phipps*.
 
