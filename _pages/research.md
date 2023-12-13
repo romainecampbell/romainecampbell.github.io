@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h3>Job Market Paper</h3>
-
+<h2>Job Market Paper</h2>
 
 [What Does Federal Oversight Do to Policing and Public Safety? Evidence from Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf). 
  <details>
@@ -15,9 +14,7 @@ Policing reform advocates have proposed increased oversight to improve quality a
 </details>
 
 
-
-
-<h3>Working Papers</h3>
+<h2>Working Papers</h2>
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*.
 
 [Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
@@ -27,7 +24,7 @@ Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Conn
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/) (her Job Market Paper)*. 
 
 
-<h3>Works in Progress</h3>
+<h2>Works in Progress</h2>
 
 Can Diversity Improve Equity? Achieving Racial Parity in Leader Assessment of Minority Team Members, *with Aaron Phipps*.
 
