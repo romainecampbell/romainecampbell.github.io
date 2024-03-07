@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Harvard University. I will join the Department of Economics and the [Brooks School of Public Policy](https://publicpolicy.cornell.edu/) at Cornell University as an Assistant Professor in July 2026. Until then, I will be a Criminal Justice Innovation Postdoctoral Fellow with the [Social Science Research Council[(https://www.ssrc.org/).
+I am a Ph.D. candidate in Economics at Harvard University. I will join the Department of Economics and the [Brooks School of Public Policy](https://publicpolicy.cornell.edu/) at Cornell University as an Assistant Professor in July 2026. Until then, I will be a Criminal Justice Innovation Postdoctoral Fellow with the [Social Science Research Council](https://www.ssrc.org/).
 
 My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores how federal investigations affect policing behavior and public safety.
 
