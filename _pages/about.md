@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores how federal investigations affect policing behavior and public safety.
+I am a labor economist. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My CV is available [here](https://romainecampbell.github.io/files/CampbellRomaine_CV.pdf).
 
-I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Program](https://inequality.hks.harvard.edu), an [NSF Graduate Fellow](https://www.nsfgrfp.org), and an affiliate at [Harvard's Institute for Quantitative Social Science](https://www.iq.harvard.edu/about).
+For AY 2024-2026, I will be an Arnold Ventures [SSRC](https://www.ssrc.org/) [Criminal Justice Innovation Postdoctoral Fellow](https://www.ssrc.org/programs/arnold-ventures-criminal-justice-innovation-fellowships/fellows/). Beginning July 2026, I will be an Assistant Professor in the [Department of Economics](https://economics.cornell.edu/) and the [Jeb E. Brooks School of Public Policy](https://publicpolicy.cornell.edu/) at Cornell University.
 
-Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
+I received my Ph.D. in Economics from Harvard University in 2024, where I was also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Program](https://inequality.hks.harvard.edu), an [NSF Graduate Research Fellow](https://www.nsfgrfp.org), and an affiliate at [Harvard's Institute for Quantitative Social Science](https://www.iq.harvard.edu/about).
 
-Here is my [CV](https://romainecampbell.github.io/files/CampbellRomaine_CV.pdf).
-
-References
-======
-
-[Lawrence Katz](katz2@fas.harvard.edu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Jesse Shapiro](jesse_shapiro@fas.harvard.edu)         
-[Edward Glaeser](eglaeser@harvard.edu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Amanda Pallais](apallais@fas.harvard.edu)                              
+Prior to graduate school, I was a Senior Analyst at [Analysis Group, Inc.](https://www.analysisgroup.com/), and a Data Analyst with the State of Massachusetts' [Betsy Lehman Center](https://betsylehmancenterma.gov/). I received my B.A. in Mathematical-Economics from [Wesleyan University](https://www.wesleyan.edu/) in 2013.                           
 
 
 
