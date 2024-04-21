@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h2>Working Papers</h2>
+
 [What Does Federal Oversight Do to Policing and Public Safety? Evidence from Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf).
 
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/)*.
