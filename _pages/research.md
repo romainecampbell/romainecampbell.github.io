@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 <h2>Working Papers</h2>
 
 [What Does Federal Oversight Do to Policing and Public Safety? Evidence from Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf).
@@ -16,6 +17,7 @@ author_profile: true
 [Spillover Effects at School: How Black Teachers Affect their White Peers’ Racial Competency](https://www.nber.org/papers/w31847), *with Seth Gershenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*. NBER Working Paper 31847. IZA Discussion Paper 16258.
 
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*.
+
 
 <h2>Works in Progress</h2>
 
