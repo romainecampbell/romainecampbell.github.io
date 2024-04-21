@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: https://romainecampbell.github.io/files/CampbellRomaine_CV.pdf
 
-  - title: "Job Market Paper"
-    url: /jobmarket/    
+ # - title: "Job Market Paper"
+ #   url: /jobmarket/    
 
   - title: "Research"
     url: /research/ 
