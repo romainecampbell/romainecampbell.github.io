@@ -12,9 +12,9 @@ author_profile: true
 
 [The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/)*.
 
-[Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
+[Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with [Marcella Alsan](https://www.hks.harvard.edu/faculty/marcella-alsan), Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
 
-[Spillover Effects at School: How Black Teachers Affect their White Peers’ Racial Competency](https://www.nber.org/papers/w31847), *with Seth Gershenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*. NBER Working Paper 31847. IZA Discussion Paper 16258.
+[Spillover Effects at School: How Black Teachers Affect their White Peers’ Racial Competency](https://www.nber.org/papers/w31847), *with [Seth Gershenson](https://www.sethgershenson.com/), [Constance A. Lindsay](https://ed.unc.edu/people/constance-a-lindsay/), [Nicholas W. Papageorge](https://nicholaswpapageorge.com/), and [Jessica H. Rendon](https://www.jessicahrendon.com/bio)*. NBER Working Paper 31847. IZA Discussion Paper 16258.
 
 Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*.
 
