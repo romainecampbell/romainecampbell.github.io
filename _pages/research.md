@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 <h2>Working Papers</h2>
 
