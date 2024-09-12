@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
 <h2>Working Papers</h2>
 
 [What Does Federal Oversight Do to Policing and Public Safety? Evidence from Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf).
