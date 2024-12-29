@@ -1,0 +1,185 @@
+/* Visibility. */
+
+.invisible {
+    /* Marking this and the display-* rules as important as using them is a very
+       deliberate choice that should override default CSS rules of precedence. */
+    visibility: hidden !important;
+}
+
+.display-none,
+.hidden {
+    display: none !important;
+}
+
+/* Element Layout. */
+
+.display-inline,
+.inline {
+    display: inline !important;
+}
+
+.display-inline-block,
+.inline-block {
+    display: inline-block !important;
+}
+
+.display-block,
+.block {
+    display: block !important;
+}
+
+.display-flex,
+.flex {
+    display: flex !important;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.column,
+.direction-column,
+.flex-column {
+    display: flex !important;
+    flex-direction: column;
+}
+
+.row,
+.direction-row,
+.flex-row {
+    display: flex !important;
+    flex-direction: row;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
+.justify-space-around {
+    justify-content: space-around;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.width-100-percent {
+    width: 100%;
+}
+
+.width-90-percent {
+    width: 90%;
+}
+
+.width-80-percent {
+    width: 80%;
+}
+
+.width-75-percent {
+    width: 75%;
+}
+
+.width-50-percent {
+    width: 50%;
+}
+
+.width-25-percent {
+    width: 25%;
+}
+
+.width-20-percent {
+    width: 20%;
+}
+
+.width-10-percent {
+    width: 10%;
+}
+
+.margin-left-auto {
+    margin-left: auto;
+}
+
+.margin-right-auto {
+    margin-right: auto;
+}
+
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italicized,
+.italic {
+    font-style: italic;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.capitalized {
+    text-transform: capitalize;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+/* Lists */
+
+/* Usage: Place this on a ul element. <ul class="list-style-none> */
+.list-style-normal,
+.list-bullet-normal {
+    list-style: disc;
+}
+
+.list-style-none,
+.list-bullet-none {
+    list-style: none;
+}
+
+.list-style-circle,
+.list-bullet-circle {
+    list-style: circle;
+}
+
+/* Other */
+
+.circle,
+.round {
+    border-radius: 50%;
+    aspect-ratio: 1;
+}
