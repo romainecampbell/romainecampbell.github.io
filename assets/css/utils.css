@@ -75,11 +75,14 @@
     color: black;
 }
 
+.small-font {
+    font-size: 0.625rem;
+}
+
 .indent-box {
-    font-size: 0.8rem;
-    margin-left: 60 pt;
-    padding-left: 0 pt;
-    text-indent: 0 pt;
+    margin-left: 60pt;
+    padding-left: 0pt;
+    text-indent: 0pt;
 }
 
 .align-center {
@@ -198,3 +201,4 @@
     border-radius: 50%;
     aspect-ratio: 1;
 }
+
