@@ -71,6 +71,16 @@
     justify-content: space-around;
 }
 
+.other-class {
+    font-size: 14px;
+    color: black;
+}
+
+.indented-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .align-center {
     align-items: center;
 }
