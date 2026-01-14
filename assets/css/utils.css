@@ -76,7 +76,10 @@
 }
 
 .indent-box {
-    font-size: 10px;
+    font-size: 0.8rem;
+    margin-left: 60 pt;
+    padding-left: 0 pt;
+    text-indent: 0 pt;
 }
 
 .align-center {
