@@ -76,9 +76,8 @@
     color: black;
 }
 
-.indented-container {
-    padding-left: 500px;
-    padding-right: 500px;
+.indented {
+    text-indent: 20px;
 }
 
 .align-center {
