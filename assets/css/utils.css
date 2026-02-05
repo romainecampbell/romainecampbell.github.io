@@ -75,14 +75,14 @@
     color: black;
 }
 
-.small-font {
-    font-size: 2px;
+.small-font {
+    font-size: 2px;
 }
 
-.indent-box {
+.indent-box {
     margin-left: 30pt;
-    padding-left: 0pt;
-    text-indent: 0pt;
+    padding-left: 0 pt;
+    text-indent: 0 pt;
 }
 
 .align-center {
