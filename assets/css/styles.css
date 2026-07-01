@@ -5,7 +5,7 @@
     --content-max-width: 1300px; /* Content will not grow wider than this on large screens. */
     --clr-background-primary: white; /* Main background colour; */
     --clr-background-secondary: white; /* Header and Footer. */
-    --clr-text-primary: #222222; /* Use for main text. */
+    --clr-text-primary: #333333; /* Use for main text. */
     --clr-text-secondary: #222222; /* Use for header. */
     --clr-link: #012169;
 }
